@@ -1,0 +1,11 @@
+area,population,query,lat,lng,formatted_address
+Midtown,16569,"Midtown, Atlanta, GA",33.783315,-84.383117,"Midtown Atlanta, Atlanta, GA, USA"
+Downtown,13411,"Downtown, Atlanta, GA",33.755711,-84.388372,"Downtown Atlanta, Atlanta, GA, USA"
+Old Fourth Ward,10505,"Old Fourth Ward, Atlanta, GA",33.763959,-84.371973,"Old Fourth Ward, Atlanta, GA, USA"
+North Buckhead,8270,"North Buckhead, Atlanta, GA",33.852656,-84.365375,"North Buckhead, Atlanta, GA, USA"
+Pine Hills,8033,"Pine Hills, Atlanta, GA",33.837536,-84.351576,"Pine Hills, Atlanta, GA 30324, USA"
+Morningside/Lenox Park,8030,"Morningside/Lenox Park, Atlanta, GA",33.796156,-84.359463,"Morningside-Lenox Park, Atlanta, GA, USA"
+Virginia-Highland,7800,"Virginia-Highland, Atlanta, GA",33.781734,-84.363513,"Virginia-Highland, Atlanta, GA 30306, USA"
+Grant Park,6771,"Grant Park, Atlanta, GA",33.735704,-84.371164,"Grant Park, 840 Cherokee Ave SE, Atlanta, GA 30315, USA"
+Georgia Tech,6607,"Georgia Tech, Atlanta, GA",33.777979,-84.397964,"Atlanta, GA 30332, USA"
+Kirkwood,5897,"Kirkwood, Atlanta, GA",33.75334,-84.326218,"Kirkwood, Atlanta, GA, USA"
