@@ -36,7 +36,8 @@ The analysis was performed using the following steps:
 ## 4. Folder Structure
 ```text
 .
-├── Atlanta_Facility_Optimization.ipynb   # Main Jupyter Notebook with code & analysis
+├── atl_facility_location.ipynb           # Main Jupyter Notebook with code & analysis
+├── atl_facility_location_report.pdf      # PDF report with code & analysis
 ├── atl_neighborhoods_geocoded.csv        # Raw/processed CSV data
 ├── map_results                           # Map results
 └── README.md                             # Project documentation and insights
